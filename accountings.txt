@@ -2,3 +2,7 @@
 ================================================================================
 Glossary
 
+10-Q: quarterly report that publicly traded companies in the United States are required to file with the Securities and Exchange Commission (SEC).
+  - it includes: Financial Statements, Management's Discussion and Analysis (MD&A), Quantitative and Qualitative Disclosures About Market Risk, Controls and Procedures, Legal Proceedings, Risk Factors, Exhibits.
+10-K: comprehensive annual report that publicly traded companies in the United States are required to file with the Securities and Exchange Commission (SEC).
+  - it includes Business Overview, Risk Factors, Selected Financial Data, Management's Discussion and Analysis (MD&A), Financial Statements and Supplementary Data, Directors and Executive Officers, Exhibits and Schedules.
